@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Blog Site</title>
+    <link href="https://github.com/rijashaheed/blog-website.git/feed.xml" rel="self" />
+    <link href="https://github.com/rijashaheed/blog-website.git" />
+    <updated>2025-09-13T14:21:37+02:00</updated>
+    <author>
+        <name>Rija</name>
+    </author>
+    <id>https://github.com/rijashaheed/blog-website.git</id>
+
+    <entry>
+        <title>Introduction</title>
+        <author>
+            <name>Rija</name>
+        </author>
+        <link href="https://github.com/rijashaheed/blog-website.git/introduction.html"/>
+        <id>https://github.com/rijashaheed/blog-website.git/introduction.html</id>
+
+        <updated>2025-09-13T14:00:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hi, I’m Rija Shaheed A proactive software engineer and master’s student in Information Systems at the University of Münster. I specialize in building intuitive, scalable, and user-friendly applications using React.js, Node.js, and the MERN stack. My experience ranges from developing mobile apps to creating ERP&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 data-start="589" data-end="615"> </h3>
+<p data-start="616" data-end="1004"><strong data-start="616" data-end="643">Hi, I’m Rija Shaheed </strong><br data-start="643" data-end="646">A proactive software engineer and master’s student in Information Systems at the University of Münster. I specialize in building intuitive, scalable, and user-friendly applications using React.js, Node.js, and the MERN stack. My experience ranges from developing mobile apps to creating ERP and CRM integration solutions that streamline business processes.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://images.unsplash.com/photo-1650661926447-9efb2610f64c?q=80&amp;w=873&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="setup image" width="873" height="580" data-is-external-image="true"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
